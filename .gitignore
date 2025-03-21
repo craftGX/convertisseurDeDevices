@@ -1,0 +1,33 @@
+# 🔥 Ignorer le dossier node_modules
+node_modules/
+
+# 🔒 Ignorer les fichiers d'environnement
+.env
+
+# 🚫 Ignorer les fichiers de logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 🏗️ Ignorer les fichiers générés par le système d'exploitation
+.DS_Store
+Thumbs.db
+
+# 🚀 Ignorer les fichiers de construction
+dist/
+build/
+coverage/
+
+# 🌍 Ignorer les fichiers IDE/éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🗑️ Ignorer les fichiers temporaires
+tmp/
+temp/
+*.bak
+
+# 🔍 Ignorer les fichiers spécifiques à Git
+.git/
